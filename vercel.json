@@ -12,7 +12,5 @@
       "dest": "/api/index.php"
     }
   ],
-  "env": {
-    "APP_ENV": "production"
-  }
+  "outputDirectory": "public"
 }
